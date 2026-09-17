@@ -7,7 +7,7 @@ Bu proje, California Housing veri setini kullanarak ev özelliklerine (oda sayı
 * **Dil:** Python
 * **Makine Öğrenmesi:** Scikit-learn (Random Forest Regressor)
 * **Veri İşleme:** Pandas
-* **Masaüstü Arayüzü (GUI):** Tkinter (Python standart kütüphanesi)
+* **Masaüstü Arayüzü (GUI):** Tkinter
 
 ## 🚀 Proje Özellikleri
 
