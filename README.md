@@ -21,7 +21,7 @@ Bu proje, California Housing veri setini kullanarak ev özelliklerine (oda sayı
 
 **1. Projeyi Klonlayın:**
 ```bash
-git clone [https://github.com/Abidin-Isik-Yilmazer/Ev-Fiyat-Tahmini-Modeli.git](https://github.com/Abidin-Isik-Yilmazer/Ev-Fiyat-Tahmini-Modeli.git)
+git clone https://github.com/Abidin-Isik-Yilmazer/Ev-Fiyat-Tahmini-Modeli.git
 ```
 
 **2. Proje Klasörüne Girin:**
