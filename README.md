@@ -1,6 +1,6 @@
 # 🏡 Ev Fiyat Tahmini Modeli
 
-Bu proje, California Housing veri setini kullanarak ev özelliklerine (oda sayısı, evin yaşı, bölge geliri vb.) göre ev fiyatlarını tahmin eden bir makine öğrenmesi modelidir. Proje, Nesne Yönelimli Programlama (OOP) mimarisiyle modüler olarak tasarlanmış olup, tahmin sonuçlarını düz bir terminal çıktısı yerine şık bir masaüstü arayüzü (GUI) ile kullanıcıya sunmaktadır.
+Bu proje, California Housing veri setini kullanarak ev özelliklerine (oda sayısı, evin yaşı, bölge geliri vb.) göre ev fiyatlarını tahmin eden bir makine öğrenmesi modelidir. Proje, Nesne Yönelimli Programlama (OOP) mimarisiyle modüler olarak tasarlanmış olup, tahmin sonuçlarını düz bir terminal çıktısı yerine masaüstü arayüzü (GUI) ile kullanıcıya sunmaktadır.
 
 ## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
 
